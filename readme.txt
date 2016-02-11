@@ -11,6 +11,7 @@ git push -u origin master
 
 
  push an existing repository from the command line
+ Emer: checking git is up and running for me 
 
 
 git remote add origin git@github.com:carrole9/MscProject.git
